@@ -1,4 +1,4 @@
-# listagem_datas_aulas_shell
+# Listagem de Datas de Aulas (Shell)
 
 O listagem_datas_aulas_shell é um script em shell projetado para simplificar a criação de uma lista de datas de aulas para um determinado intervalo de tempo, como um semestre acadêmico. Com este script, você pode facilmente selecionar os dias da semana em que as aulas ocorrerão e gerar uma lista organizada com todas as datas das aulas correspondentes.
 
